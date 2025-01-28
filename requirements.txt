@@ -1,0 +1,11 @@
+os
+streamlit
+groq
+python-dotenv
+pypdf2
+nltk
+pandas
+google-api-python-client
+google-auth
+transformers
+requests
