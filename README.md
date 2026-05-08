@@ -1,4 +1,4 @@
-﻿# Legal-Document-Summarizer
+﻿# Legal-Document-Summarizer (https://legal-document-summarizer-3i2uxkaegjre36gnf3nw7h.streamlit.app/)
 
 ## 📌 Project Overview  
 The **Legal AI App** is an intelligent virtual legal assistant designed to provide insights, legal document analysis, and case law research.  
