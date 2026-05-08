@@ -206,7 +206,7 @@ st.markdown("""
 
 # ── Load env + Groq client ────────────────────────────────────────────────────
 load_dotenv()
-api_key = st.secrets.get("GROQ_API_KEY")
+API_KEY = st.secrets["GROQ_API_KEY"]
 client = Groq(api_key=API_KEY)
 MODEL = "llama-3.1-8b-instant"
 
